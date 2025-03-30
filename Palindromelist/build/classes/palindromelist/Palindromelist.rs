@@ -1,2 +1,0 @@
-palindromelist.Palindromelist
-palindromelist.Solution
